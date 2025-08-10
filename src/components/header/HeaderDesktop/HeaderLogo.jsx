@@ -3,7 +3,7 @@ const Logo = () =>{
     return(
 
         <div>
-            <img className="w-[220px]" src="./public/img/full-horizontal.svg" alt="" />
+            <img className="w-[220px]" src="/img/full-horizontal.svg" alt="" />
         </div>
     )
 }
