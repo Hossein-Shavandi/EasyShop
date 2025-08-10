@@ -3,5 +3,17 @@
 @tailwind utilities;
 
 
+@layer base{
 
+
+    @font-face {
+        font-family: "Dana";
+        src: url("../font/Dana/woff2/DanaFaNum-Regular.woff2") format("woff2");
+    }
+    
+    body {
+        background-color: #f9fafb;
+        font-family: "Dana", sans-serif;
+    }
+}
 
