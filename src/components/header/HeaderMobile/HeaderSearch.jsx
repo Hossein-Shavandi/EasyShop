@@ -3,7 +3,7 @@ import Alerts from "./Headeralert";
 
 const Search = () => {
   return (
-    <div className="flex items-center gap-x-2 mt-3 w-full max-w-full md:max-w-screen-lg">
+    <div className="flex items-center gap-x-2 mr-2 mt-3 w-full max-w-full md:max-w-screen-lg">
       <div className="relative flex-1 min-w-0">
         <SearchIcon
           size={18}
