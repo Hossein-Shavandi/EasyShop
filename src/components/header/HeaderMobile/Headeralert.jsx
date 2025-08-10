@@ -7,7 +7,6 @@ const Alerts = () => {
         bg-[#f0f0f1]
         ml-4
         rounded-md
-        border border-gray-300
         cursor-pointer
       "
     >
