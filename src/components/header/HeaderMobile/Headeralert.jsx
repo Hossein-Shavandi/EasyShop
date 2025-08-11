@@ -5,7 +5,7 @@ const Alerts = () => {
         flex items-center justify-center
         w-10 h-10
         bg-[#f0f0f1]
-        ml-4
+        ml-2
         rounded-md
         cursor-pointer
       "
