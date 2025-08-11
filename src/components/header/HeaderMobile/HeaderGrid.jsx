@@ -24,9 +24,6 @@ const Header = () => {
             <Link to="/cart" className="flex flex-col items-center relative">
               <ShoppingCart size={22} />
               <span className="text-xs mt-1">سبد خرید</span>
-              <span className="absolute -top-1 right-3 bg-blue-500 text-white text-[10px] px-1 rounded-full min-w-[16px] text-center">
-                3
-              </span>
             </Link>
           </li>
 
